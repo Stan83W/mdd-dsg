@@ -7,6 +7,7 @@ title: Design & Code Ressources
     <ul>
       <% data.links.each do |link| %>
         <li>
+          <h2><%= link.cat %></h2>
           <a href="<%= link.url %>" target="_blank"><%= link.name %></a>
         </li>
 

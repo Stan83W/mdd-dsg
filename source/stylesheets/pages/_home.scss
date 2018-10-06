@@ -1,17 +1,23 @@
 #home {
-  background-color: #D23333;
+  background-color: rgb(0,0,0);
   color: white;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
   text-align: center;
-  p {
-    margin-top: 1.5em;
-  }
   a {
-    color: rgba(0,0,0,0.4);
+    color: rgb(255,255,255);
     font-weight: bold;
-    font-size: 16px;
+    font-size: 64px;
+    text-transform: uppercase;
   }
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+h2 {
+  font-size: 16px;
+  text-transform: uppercase;
 }
