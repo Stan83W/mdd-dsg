@@ -11,6 +11,11 @@
     font-weight: bold;
     font-size: 64px;
     text-transform: uppercase;
+    text-decoration: none;
+    transition: all 0.5s ease;
+  }
+  a:hover {
+    color: rgba(255,255,255,0.3);
   }
 }
 ul {
