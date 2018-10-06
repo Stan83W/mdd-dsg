@@ -1,15 +1,19 @@
 ---
-title: Le Wagon - Middleman
+title: Design & Code Ressources
 ---
 
 <div id="home">
   <div class="home-content">
-    <%= image_tag "logo.png", width: "200" %>
-    <p>
-      Middleman is now running!
-    </p>
-    <p class="about">
-      <%= link_to "More about this template", "about.html" %>
-    </p>
+    <ul>
+      <% data.links.each do |link| %>
+        <li>
+          <a href="<%= link.url %>" target="_blank"><%= link.name %></a>
+        </li>
+
+      <% end %>
+    </ul>
+
+
+
   </div>
 </div>
