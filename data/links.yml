@@ -44,3 +44,14 @@
 - name: 'Get the font'
   url: 'https://www.getthefont.com/'
   cat: 'Fonts'
+
+- name: 'Coolors'
+  url: 'https://coolors.co/'
+  cat: 'Color'
+- name: 'Sans Francisco'
+  url: 'http://www.sansfrancis.co/'
+  cat: 'Color'
+- name: 'Color Hunt'
+  url: 'https://colorhunt.co/'
+  cat: 'Color'
+
