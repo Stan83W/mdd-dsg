@@ -76,3 +76,10 @@
 - name: 'Orion'
   url: 'https://orioniconlibrary.com/'
   cat: 'Icons'
+
+- name: 'French Designers Club'
+  url: 'http://frenchdesigners.club/'
+  cat: 'Community'
+- name: 'Are.na'
+  url: 'https://www.are.na/'
+  cat: 'Community'
