@@ -83,3 +83,13 @@
 - name: 'Are.na'
   url: 'https://www.are.na/'
   cat: 'Community'
+
+- name: 'UX Archive'
+  url: 'http://uxarchive.com/'
+  cat: 'UI/UX'
+- name: 'UI Buttons'
+  url: 'http://uibuttons.com/'
+  cat: 'UI/UX'
+- name: 'Good UI'
+  url: 'http://www.goodui.org/'
+  cat: 'UI/UX'
