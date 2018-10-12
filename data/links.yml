@@ -93,3 +93,13 @@
 - name: 'Good UI'
   url: 'http://www.goodui.org/'
   cat: 'UI/UX'
+
+  - name: 'CSS Filter'
+    url: 'https://developer.mozilla.org/fr/docs/Web/CSS/filter'
+    cat: 'CSS'
+  - name: 'Object Fit'
+    url: 'https://developer.mozilla.org/fr/docs/Web/CSS/object-fit'
+    cat: 'CSS'
+  - name: 'Text Indent'
+    url: 'https://developer.mozilla.org/fr/docs/Web/CSS/text-indent'
+    cat: 'CSS'
