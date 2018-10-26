@@ -3,7 +3,8 @@
 @import "navbar";
 @import "footer";
 
-
+body {
+  height: 100vh;
+}
 .page-content {
-  position: relative;
 }
