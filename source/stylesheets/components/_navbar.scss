@@ -6,3 +6,19 @@
   position: sticky;
   top: 0;
 }
+.grad-nav h1 {
+  font-family: 'DWH', "sans-serif";
+  padding: 20px;
+  color: white;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.grad-nav a {
+  text-decoration: none !important;
+  color: white !important;
+}
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,9 +1,25 @@
 .grad-foot {
   background-color: rgb(0,0,0);
   box-shadow: 0px 50px 70px 100px rgb(0,0,0);
-  height: 30px;
+  height: 80px;
   width: 100vw;
   z-index: 100;
   position: fixed;
   bottom: 0;
+}
+.foot-content h2 {
+  font-family: 'DWH', "sans-serif";
+  padding: 20px;
+  color: white;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.foot-content a {
+  text-decoration: none !important;
+  color: white !important;
+}
+.foot-content {
+  display: flex;
+  justify-content: space-between;
 }
